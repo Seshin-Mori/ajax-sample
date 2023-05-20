@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#fetchButton {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+#resultArea {
+  margin-top: 20px;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
